@@ -11,9 +11,7 @@ body{
 	
 }
 /*navegacion*/
-.navbar{
-	position: sticky;
-}
+
 
 /*tarjeta novedades*/
 .card-header-first{
